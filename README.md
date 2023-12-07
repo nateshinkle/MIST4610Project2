@@ -17,6 +17,6 @@ This graphs displays a detailed breakdown of Covid-19 deaths against a backdrop 
 
 ![Covid 19 data](https://github.com/nateshinkle/MIST4610Project2/assets/150069418/d7418e46-c086-411f-a05a-576629cfa7ef)
 
-This graph presents a comparative annual view of the fatalities due to the virus from 2020 through 2023. A clear downward trend is observable, with the highest number of deaths in 2020, which progressively decreases in the following years. This pattern could reflect various factors, including the implementation of public health measures, the development and distribution of vaccines, and the possible decrease in virulence of the virus over time.
+This graph presents a comparative annual view of the fatalities due to the virus from 2020 through 2023. A clear downward trend is observable, with the highest number of deaths in 2020, which progressively decreases in the following years. This pattern could reflect various factors, including the implementation of public health measures, the development and distribution of vaccines, and the possible decrease in virulence of the virus over time. 
 
 
